@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "{cipher}00569851f5174e70ba033144e38fbcee86a2491218dd21f3e3349365375beefa14924a6cd5679e471d1a3f71ab6647954a02b6d54ec1f1efabca65782246ea4bd937bd29cffe3f7a2aa21f12daa0d470"
+  message: "Hey, welcome to EazyBank accounts related webhook APIs (rollback)"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}f83ac5a34ba5f4657ae8e863c063c1b69efb4d23d0c431eb134f8d1b3ed0823dee0a4b627d091455b4c6600353a3682c"
